@@ -1,53 +1,62 @@
 export const pokemon = [
   {
+    id: 1,
     name: "Bulbasaur",
     type: "grass",
     description:
       "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
   },
   {
+    id: 2,
     name: "Ivysaur",
     type: "grass",
     description:
       "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
   },
   {
+    id: 3,
     name: "Venusaur",
     type: "grass",
     description:
       "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.",
   },
   {
+    id: 4,
     name: "Charmander",
     type: "fire",
     description:
       "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
   },
   {
+    id: 5,
     name: "Charmeleon",
     type: "fire",
     description:
       "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
   },
   {
+    id: 6,
     name: "Charizard",
     type: "fire",
     description:
       "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
   },
   {
+    id: 7,
     name: "Squirtle",
     type: "water",
     description:
       "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
   },
   {
+    id: 8,
     name: "Wartortle",
     type: "water",
     description:
       "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.",
   },
   {
+    id: 9,
     name: "Blastoise",
     type: "water",
     description:
